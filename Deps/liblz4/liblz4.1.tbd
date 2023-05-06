@@ -62,3 +62,4 @@ exports:
                             _LZ4_uncompress_unknownOutputSize,
                             _LZ4_versionNumber, _LZ4_versionString ]
 ...
+
